@@ -1,0 +1,6 @@
+1. Install Tailwindcss with vite
+2. Create sections
+	Use rafce for the setup in each jsx file
+	Import the sections in the App
+3. Create the sections 1 by 1
+4. Create the constants folder to store the different data (liens, statistics, imagess importantes...)
