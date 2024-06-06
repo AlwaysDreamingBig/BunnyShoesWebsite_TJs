@@ -1,12 +1,12 @@
 import {
   Hero, CustomSection, CustomerReviews, Footer, PopularProducts, Services, SpecialOffer, Subscribe, SuperQuality
 } from './sections';
-import Nav from './components/NavigationBar.jsx';
+import NavigationBar from './components/NavigationBar.jsx';
 
 const App = () => (
   <main className="relative">
-      <Nav />
-      
+      <NavigationBar />
+
     <section className="xl:padding-1 wide:padding-r padding-b">
       <Hero />
     </section>
