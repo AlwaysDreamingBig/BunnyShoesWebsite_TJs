@@ -55,4 +55,21 @@
   .info-text {
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #e7e5e5;
+    border-radius: 4px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #d0cdcd;
+  }
 }

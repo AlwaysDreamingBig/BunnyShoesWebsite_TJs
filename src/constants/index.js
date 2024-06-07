@@ -1,5 +1,6 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { nike2, nike3, nike4, nike5, nike6, nike7, nike8, nike9, nike10, nike11, nike12, nike13 } from '../assets/images/nike'
 
 export const navLinks = [
     { href: "home", label: "Home" },
@@ -122,4 +123,15 @@ export const socialMedia = [
     { src: facebook, alt: "facebook logo" },
     { src: twitter, alt: "twitter logo" },
     { src: instagram, alt: "instagram logo" },
+];
+
+export const sentences = [
+    "Step into style this summer with our exclusive 2024 shoes collection! Whether you're hitting the beach, exploring the city, or attending outdoor events! Our LATEST DESIGNS are crafted to keep you comfortable and chic all season long.",
+    "BREATHABLE ELEGANCE: Lightweight Sneakers: Experience unparalleled comfort with our new range of lightweight sneakers. Perfect for those long summer strolls, these sneakers offer breathability with their advanced mesh designs and cushioned soles. Available in a variety of vibrant colors and patterns, they are the ideal blend of fashion and function",
+    "CHIC SANDALS: Effortless Style: Our summer sandals collection is all about elegance and ease. From strappy gladiators to minimalist slides, each pair is designed to provide superior comfort while enhancing your style quotient. Made with premium materials and featuring intricate details, these sandals are perfect for both casual outings and special occasions.",
+    "ADVENTURER-READY: Durable Outdoor Shoes: For those who seek adventure, our durable outdoor shoes are built to withstand the elements. Featuring rugged soles and supportive structures, these shoes are perfect for hiking, camping, or any outdoor activities. Stay protected and stylish no matter where your summer adventures take you."
+];
+
+export const shoeImages = [
+    nike2, nike3, nike5, nike6, nike7, nike9, nike10, nike11,
 ];

@@ -7,7 +7,7 @@ const App = () => (
   <main className="relative">
       <NavigationBar />
 
-    <section className="xl:padding-1 wide:padding-r padding-b">
+    <section className="xl:padding-1 wide:padding-r padding-b p-10">
       <Hero />
     </section>
 
