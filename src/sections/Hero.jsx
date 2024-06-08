@@ -28,11 +28,11 @@ const Hero = () => {
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">2024 Shoe Collection</span>
           <br />
 
-          <span className="text-coral-red inline-block pr-3 font-bold">Nike,</span>
+          <span className="text-cyan-600 inline-block pr-3 font-bold">Nike,</span>
          
           <span className="text-white inline-block bg-blue-400 font-bold">Addidas, </span>
           
-          <span className="text-coral-red inline-block xl:pl-3 pl-2 font-bold">Jordan </span>
+          <span className="text-cyan-600 inline-block xl:pl-3 pl-2 font-bold">Jordan </span>
           
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10"> Shoes </span>
         </h1>
