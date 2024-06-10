@@ -1,4 +1,4 @@
-import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
+import { facebook, instagram, shieldTick, support, truckFast, twitter, repair, customize } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 import { nike2, nike3, nike4, nike5, nike6, nike7, nike8, nike9, nike10, nike11, nike12, nike13 } from '../assets/images/nike'
 
@@ -55,6 +55,16 @@ export const products = [
 ];
 
 export const services = [
+    {
+        imgURL: repair,
+        label: "Shoe Repair and Maintenance",
+        subtext: "We also provide services for shoe repair, including resoling, heel replacement, and leather conditioning, to extend the lifespan of your shoes."
+    },
+    {
+        imgURL: customize,
+        label: "Customization Service",
+        subtext: "You can ustomize your shoes, such as adding monograms, changing colors, or modifying designs."
+    },
     {
         imgURL: truckFast,
         label: "Free shipping",
@@ -133,5 +143,5 @@ export const sentences = [
 ];
 
 export const shoeImages = [
-    nike2, nike3, nike5, nike6, nike7, nike9, nike10, nike11,
+    nike3, nike5, nike6, nike7, nike9, nike10, nike11,
 ];
