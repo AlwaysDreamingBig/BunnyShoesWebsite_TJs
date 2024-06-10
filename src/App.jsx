@@ -15,7 +15,7 @@ const App = () => (
       <PopularProducts />
     </section>
 
-    <section className="padding">
+    <section className="padding-s">
       <SuperQuality />
     </section>
 
