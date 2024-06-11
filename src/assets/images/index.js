@@ -10,6 +10,8 @@ import headerLogo from './header-logo.svg'
 import headerMyLogo from './shoes-store-logo.svg'
 
 import offer from './offer.svg'
+import SpOffer1 from './special-offer1.jpg'
+import SpOffer2 from './special-offer2.jpg'
 
 import shoe4 from './shoe4.svg'
 import shoe5 from './shoe5.svg'
@@ -37,6 +39,9 @@ export {
     headerMyLogo,
 
     offer,
+    SpOffer1,
+    SpOffer2,
+
     shoe4,
     shoe5,
     shoe6,
