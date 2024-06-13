@@ -162,5 +162,5 @@ export const sentences = [
 ];
 
 export const shoeImages = [
-    nike3, nike5, nike6, nike7, nike9, nike10, nike11,
+    nike3, nike5, nike7, nike9, nike10, nike11,
 ];

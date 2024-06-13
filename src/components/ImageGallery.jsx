@@ -4,14 +4,14 @@ const ImageGallery = ({ images }) => {
   const [bigImage, setBigImage] = useState(images[0]);
 
   return (
-    <div className="relative flex flex-col justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-slate-100 bg-cover bg-center">
+    <div className="relative flex flex-col justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center">
       
       <img
         src={bigImage}
         alt="Selected shoe"
         width={600}
         height={600}
-        className="absolute object-contain relative z-10 mt-40 mb-10 drop-shadow-2xl rounded-lg"
+        className="absolute object-contain relative z-10 mt-40 mb-10  rounded-lg"
       />
 
       
