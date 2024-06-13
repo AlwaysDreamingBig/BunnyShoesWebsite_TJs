@@ -3,7 +3,11 @@ import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
 
 import customer1 from './customer1.jpeg'
-import customer2 from './customer2.svg'
+import customer2 from './customer6.jpg'
+import customer3 from './customer3.jpg'
+import customer4 from './customer4.jpg'
+import customer5 from './customer5.jpg'
+
 
 import footerLogo from './footer-logo.svg'
 import headerLogo from './header-logo.svg'
@@ -33,6 +37,9 @@ export {
 
     customer1,
     customer2,
+    customer3,
+    customer4,
+    customer5,
 
     footerLogo,
     headerLogo,

@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter, repair, customize } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, customer3, customer4, customer5, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 import { nike2, nike3, nike4, nike5, nike6, nike7, nike8, nike9, nike10, nike11, nike12, nike13 } from '../assets/images/nike'
 
 export const navLinks = [
@@ -85,13 +85,31 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
+        customerName: 'Tae Kimi',
         rating: 4.5,
+        feedback: "Absolutely love Shoe Bliss! From the moment I walked in, the staff was welcoming and attentive. They guided me through their extensive collection and helped me find the perfect pair of stylish yet comfortable heels for my upcoming event. The store is well-organized, making it easy to browse, and the prices are very reasonable. I'll definitely be returning for more!"
+    },
+    {
+        imgURL: customer3,
+        customerName: 'Gotze Job',
+        rating: 5,
+        feedback: "I had a fantastic shopping experience at Step Right! The selection is vast, ranging from casual sneakers to formal dress shoes. The store was clean and well-organized, and the staff went above and beyond to ensure I found exactly what I was looking for. They even offered me tips on shoe care."
+    },
+    {
+        imgURL: customer4,
+        customerName: 'Li Kruted',
+        rating: 4.5,
+        feedback: " The variety of shoes they offer is fantastic, and the quality is top-notch. The sales associate was incredibly patient and knowledgeable, helping me find the right fit and style for my needs. GREAT!"
+    },
+    {
+        imgURL: customer5,
+        customerName: 'Justin Time',
+        rating: 4.0,
         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'GOJO Satoru',
         rating: 4.5,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }
