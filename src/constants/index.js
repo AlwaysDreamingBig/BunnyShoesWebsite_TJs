@@ -121,11 +121,12 @@ export const footerLinks = [
         title: "Products",
         links: [
             { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
+            { name: "Adidas Ultraboos", link: "/" },
             { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
+            { name: "Converse Chuck Taylor All Star", link: "/" },
             { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Puma Suede Classic", link: "/" },
+            { name: "Reebok Classic Leather", link: "/" },
         ],
     },
     {
@@ -141,8 +142,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "customerservice@bunnyshoes.com", link: "customerservice@bunnyshoes.com" },
+            { name: "+33060606060", link: "tel:+33060606060" },
         ],
     },
 ];
